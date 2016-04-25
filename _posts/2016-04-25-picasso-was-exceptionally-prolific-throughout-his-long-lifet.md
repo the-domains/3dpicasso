@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Picasso was exceptionally prolific throughout his long lifetime. The total number of artworks he produced has been estimated at 50,000, comprising 1,885 paintings; 1,228 sculptures; 2,880 ceramics, roughly 12,000 drawings, many thousands of prints, and numerous tapestries and rugs.[67]'
-datePublished: '2016-04-25T16:43:19.234Z'
-dateModified: '2016-04-25T16:42:17.612Z'
+datePublished: '2016-04-25T16:46:32.629Z'
+dateModified: '2016-04-25T16:46:13.242Z'
 title: ''
 author: []
 authors: []
@@ -25,6 +25,7 @@ _type: Article
 Picasso was exceptionally prolific throughout his long lifetime. The total number of artworks he produced has been estimated at 50,000, comprising 1,885 paintings; 1,228 sculptures; 2,880 ceramics, roughly 12,000 drawings, many thousands of prints, and numerous tapestries and rugs.[\[67\]][0]
 
 The medium in which Picasso made his most important contribution was painting.[\[68\]][1]In his paintings, Picasso used color as an expressive element, but relied on drawing rather than subtleties of color to create form and space.[\[68\]][1]He sometimes added sand to his paint to vary its texture. A[nanoprobe][2]of Picasso's_The Red Armchair_(1931) by physicists at[Argonne National Laboratory][3]in 2012 confirmed art historians' belief that Picasso used common house paint in many of his paintings.[\[69\]][4]Much of his painting was done at night by artificial light.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c33ef000-efc0-464f-b8c6-70b386140c9c.jpg)
 
 [0]: https://en.wikipedia.org/wiki/Pablo_Picasso#cite_note-67
 [1]: https://en.wikipedia.org/wiki/Pablo_Picasso#cite_note-McQuillan-68
