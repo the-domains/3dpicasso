@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Picasso was exceptionally prolific throughout his long lifetime. The total number of artworks he produced has been estimated at 50,000, comprising 1,885 paintings; 1,228 sculptures; 2,880 ceramics, roughly 12,000 drawings, many thousands of prints, and numerous tapestries and rugs.[67]'
-datePublished: '2016-04-25T16:54:17.769Z'
-dateModified: '2016-04-25T16:46:35.358Z'
+datePublished: '2016-04-25T16:54:27.435Z'
+dateModified: '2016-04-25T16:54:25.239Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-25-picasso-was-exceptionally-prolific-throughout-his-long-lifet.md
